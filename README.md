@@ -1,4 +1,4 @@
-## Software Engineer at Ford Ford Motor Company
+## Software Engineer at Ford Motor Company
 
 - 🔭 I’m currently working on ... [PeopleMover](https://github.com/FordLabs/PeopleMover) in [Ford Labs](https://fordlabs.com/)
 - 🌱 I’m <del>currently</del> **always** learning ...
