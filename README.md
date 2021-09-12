@@ -1,10 +1,11 @@
-## Software Engineer at Ford Labs
-- 🔭 I’m currently working on ... [PeopleMover](https://www.peoplemover.ford.com) in [Ford Labs](https://azureford.sharepoint.com/sites/fordlabs/SitePages/Home.aspx)
+## Software Engineer at Ford Ford Motor Company
+
+- 🔭 I’m currently working on ... [PeopleMover](https://github.com/FordLabs/PeopleMover) in [Ford Labs](https://fordlabs.com/)
 - 🌱 I’m <del>currently</del> **always** learning ...
 - 👯 I’m looking to collaborate on ... *Not sure. Always looking for something that grabs my interest.*
 - 🤔 I’m looking for help with ... *Not sure. There is a lot out there to learn, so the list keeps changing.*
 - 💬 Ask me about ... **My family, and ask to see pictures, but only if you want to grind a meeting to a halt or spin it off in various tangents.**
-- 📫 How to reach me: Slack or email :email:
+- 📫 How to reach me: email :email:
 - ⚡ Fun fact: 
 
   Human nature with respect to new technologies:
